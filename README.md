@@ -7,19 +7,21 @@ chat with friends.
 currently there are only 2 members in the chat. "Ernie" and "Guest"
 use the "Guest" username and "digitalcraft" password to test it out 
 
-Use any or these log in and password to be an Avenger and test the app!!! Avengers Asemble
-1.
-CaptainAmerica
-digitalcraft
+## Avengers Assemble
+
+Log in using any of the 4 username below with the password "digitalcraft" in order to test the application.
+
+1.CaptainAmerica
+
 
 2.THOR 
-digitalcraft
+
 
 3.Spiderman
-digitalcraft
+
 
 4.BlackWidow
-digitalcraft
+
 
 
 # Technologies 
