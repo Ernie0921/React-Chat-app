@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# React CHAT
+
+# Description 
+chat with friends. 
+currently there are only 2 members in the chat. "Ernie" and "Guest"
+use the "Guest" username and "digitalcraft" password to test it out 
+
+# Technologies 
+chatengine.io
+npm install --legacy-peer-deps react-chat-engine
+React
+npm install @ant-design/icons
+
+# view mobile
+![](./public/react-chat.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
