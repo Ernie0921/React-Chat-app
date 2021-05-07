@@ -13,7 +13,7 @@ const App = () => {
     <ChatEngine
     height='100vh'
     userName='Ernie'
-    userSecret='digitalcraft2'
+    userSecret='digitalcraft'
     projectID='6282d6d6-97ab-4472-818c-eebb215fe7d7'
 />
   );
