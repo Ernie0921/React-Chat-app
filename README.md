@@ -14,7 +14,7 @@ Log in using any of the 4 username below with the password "digitalcraft" in ord
 1.CaptainAmerica
 
 
-2.THOR 
+2.Thor
 
 
 3.Spiderman
