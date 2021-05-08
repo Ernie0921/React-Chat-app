@@ -3,9 +3,7 @@
 [react-chat](https://8c0a3204.react-chat-app.pages.dev).
 
 # Description 
-chat with friends. 
-currently there are only 2 members in the chat. "Ernie" and "Guest"
-use the "Guest" username and "digitalcraft" password to test it out 
+chat with friends as an Avenger
 
 ## Avengers Assemble
 
