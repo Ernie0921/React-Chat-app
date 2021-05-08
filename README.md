@@ -23,10 +23,10 @@ Log in using any of the 4 username below with the password "digitalcraft" in ord
 
 
 # Technologies 
-chatengine.io
-npm install --legacy-peer-deps react-chat-engine
-React
-npm install @ant-design/icons
+- chatengine.io
+- npm install --legacy-peer-deps react-chat-engine
+- React
+- npm install @ant-design/icons
 
 
 ## How to develop it
