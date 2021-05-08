@@ -28,16 +28,16 @@ npm install --legacy-peer-deps react-chat-engine
 React
 npm install @ant-design/icons
 
+
+## How to develop it
+
+- Clone on your local machine by using `https://github.com/Ernie0921/React-Chat-app.git`
+- Navigate into the main directory
+- Run `npm install` to install node modules
+- Run `npm start` to run it locally then will open automatclly on your browser on `localhost:3000` port
+- Run `npm run build` to create a production build
+
 # view mobile
 ![](./public/react-chat.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
